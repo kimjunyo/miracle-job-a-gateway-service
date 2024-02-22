@@ -8,19 +8,17 @@ Gateway-Service는 모든 웹 클라이언트의 요청을 처리하는 기능�
 
 ## 👥 역할 소개
 
-### 나의 역할: Gateway-Service
-
-- **주요 업무:** 
-  - Gateway Team 리더
-  - Gateway Service 개발
-    - 세션 및 토큰 관리
-    - Front-End 설계 및 개발
-    - ServiceCall Model 설계
-      - 각 서비스(유저,기업,관리자,유틸)에 수신/송신하는 api 모듈 개발
-    - 예외 처리 화면 통일화
-  - AWS S3 적용
-    - AWS S3 이미지 저장 및 삭제, 조회
-  - <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=35&end=48">이메일 인증 적용 (SMTP)</a>
+### **나의 주요 업무:** 
+- Gateway Team 리더
+- Gateway Service 개발
+  - 세션 및 토큰 관리
+  - Front-End 설계 및 개발
+  - ServiceCall Model 설계
+    - 각 서비스(유저,기업,관리자,유틸)에 수신/송신하는 api 모듈 개발
+  - 예외 처리 화면 통일화
+- AWS S3 적용
+  - AWS S3 이미지 저장 및 삭제, 조회
+- <a href="https://www.youtube.com/embed/gh4Vesk6inA?autoplay=1&controls=0&start=35&end=48">이메일 인증 적용 (SMTP)</a>
 
 ## 📌 참고 및 기타 정보
 
